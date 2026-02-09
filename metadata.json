@@ -1,0 +1,5 @@
+{
+  "name": "gerador de treinamentos 2.0",
+  "description": "Uma ferramenta de duas etapas para gerar um syllabus completo de curso e, em seguida, criar o conteúdo HTML detalhado para cada aula individual usando a API do Gemini com varias imagens e graficos.",
+  "requestFramePermissions": []
+}
